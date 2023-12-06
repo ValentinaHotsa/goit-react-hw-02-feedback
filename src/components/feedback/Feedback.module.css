@@ -1,42 +1,40 @@
-.containerStatistics{
-    background-color: rgb(180, 180, 231);
-    padding: 30px;
-    border-radius: 20px;
-    border: solid 1px gray;
+.containerStatistics {
+  background-color: rgb(180, 180, 231);
+  padding: 30px;
+  border-radius: 20px;
+  border: solid 1px gray;
 }
 .title {
-    color: rgb(52, 44, 44);
-    font-size: 50px;
-    text-align: center;
+  color: rgb(52, 44, 44);
+  font-size: 50px;
+  text-align: center;
 }
-.titleStatistics{
-    color: rgb(52, 44, 44);
-    font-size: 45px;
-    text-align: center;
+.titleStatistics {
+  color: rgb(52, 44, 44);
+  font-size: 45px;
+  text-align: center;
 }
-.statistics{
-    color: rgb(52, 44, 44);
-    font-size: 20px;
-    text-align: center;
-    
+.statistics {
+  color: rgb(52, 44, 44);
+  font-size: 20px;
+  text-align: center;
 }
-.notificationMessage{
-    color: rgb(52, 44, 44);
-    font-size: 30px;
-    text-align: center;
+.notificationMessage {
+  color: rgb(52, 44, 44);
+  font-size: 30px;
+  text-align: center;
 }
-.containerButton{
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-    
+.containerButton {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
 }
-.button{
-    padding: 20px;
-    font-size: 20px;
-    text-transform: uppercase;
-    color: rgb(52, 44, 44);
-    width: 150px;
-    border-color: grey;
-    border-radius: 20px;
+.button {
+  padding: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: rgb(52, 44, 44);
+  width: 150px;
+  border-color: grey;
+  border-radius: 20px;
 }
